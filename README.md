@@ -27,7 +27,7 @@ _Any this time, there are some small css interactions taking place that are bein
 _Please send feedback, or general inquiries to team-emails@gmail.com. Our team will do our best to respond to messages  and feedback we receive. This is an ideal place to send concerns about accessibility, bugs and other general questions about the application and the team._
 
 ## Technologies Used
-
+Ruby, Rails, PostgreSQL, Action Cable, JavaScript, CSS, HTML
 __
 
 ### License
