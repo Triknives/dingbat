@@ -6,7 +6,11 @@
 
 ## Description
 
-_Multi-player trivia game. Background animation inspired by: https://codepen.io/akashnimare/pen/sjmbB._
+_Dingbat Trivia is a multi-player trivia game (inspired by Jackbox) built in 3.5 days.
+
+Sunburst background animation was inspired by: https://codepen.io/akashnimare/pen/sjmbB. Bat drawings are by each member of the development team, sounds/music are by Liam._
+
+The game is best enjoyed with the "room" hosted on a large screen and players joining on their personal devices.
 
 ## Accessing And Playing "DingBat"
 
